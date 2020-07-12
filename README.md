@@ -4,4 +4,4 @@ I'm Sam. I'm a passionate entrepreneur and software professional living in the S
 open-source/polyglot application framework based on [Bazel](bazelbuild/bazel), [Micronaut](micronaut-projects/micronaut) and the Closure ecosystem of tools
 ([Compiler](google/closure-compiler), [Library](google/closure-library), [Templates](google/closure-templates) and [Stylesheets](google/closure-stylesheets)).
 
-By day, I run Tech@[Cookies](https://github.com/CookiesCo), where we're building the world's best products in cannabis, fashion, music and events.
+By day, I run Tech@[Cookies](https://github.com/CookiesCo) 🍪🍋 where we're building the world's best products in cannabis, fashion, music and events.
