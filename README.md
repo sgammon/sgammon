@@ -1,5 +1,4 @@
 # 👋 Hi there
 
-I'm Sam. I'm a passionate entrepreneur and software professional living in the SF Bay Area. I'm here on Github building stuff like [Elide](https://github.com/sgammon/elide), a modern
-open-source/polyglot application framework based on [Bazel](bazelbuild/bazel), [Micronaut](micronaut-projects/micronaut) and the Closure ecosystem of tools
-([Compiler](google/closure-compiler), [Library](google/closure-library), [Templates](google/closure-templates) and [Stylesheets](google/closure-stylesheets)).
+I'm Sam. I'm a passionate entrepreneur and software professional living in the SF Bay Area. I'm here on Github building stuff like [Elide](https://github.com/elide-dev/elide), a modern
+polyglot runtime which makes software fun again.
