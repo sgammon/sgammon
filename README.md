@@ -28,7 +28,7 @@ We've launched [Buildless](https://less.build) in private beta 🎉. It's a remo
 
 - [`less.build`](https://less.build): Universal remote build cache for Maven, Gradle, Bazel, TurboRepo, CCache, SCCache, and more.
 
-- [`elide.dev`](https://elide.dev): Polyglot Node-like runtime via the magic of [GraalVM](https://graalvm.org). It's like Node, but on JVM and polyglot (and at the speed of native).
+- [`elide.dev`](https://elide.dev): Polyglot Node-like runtime via [GraalVM](https://graalvm.org).
 
 - [`rules_graalvm`](https://github.com/sgammon/rules_graalvm): Use [GraalVM](https://graalvm.org) from [Bazel](https://bazel.build), with support for `native-image` on Linux, macOS, Windows, and Bazel 4-7.
 
