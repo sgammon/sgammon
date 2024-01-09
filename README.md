@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sgammon&theme=ambient_gradient&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&hide_title=true&hide_border=true" />
+
 # 👋 Hi there
 
 I'm Sam. I'm a passionate entrepreneur and software professional living in the SF Bay Area. I'm here on Github building stuff like [Elide](https://github.com/elide-dev/elide), a modern
