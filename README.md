@@ -36,7 +36,13 @@ We've launched [Buildless](https://less.build) in private beta 🎉. It's a remo
 
 - [`rules_gradle`](https://github.com/sgammon/rules_gradle): Use [Gradle](https://gradle.org) from within your [Bazel](https://bazel.build) build; run Gradle builds within Bazel's sandbox.
 
+- [`jpms.pkg.st`](https://github.com/javamodules/attic): The "JPMS Attic" repository lets you safely use Java Modules artifacts from the future, before they are officially released.
+
 ### I am a contributor to
+
+- [Google: Error Prone Compiler](https://github.com/google/error-prone): I contributed [JPMS support](https://github.com/google/error-prone/pull/4311) to the Error Prone Annotations, released at [`2.26.1`](https://github.com/google/error-prone/releases/tag/v2.26.1)
+
+- [Google: J2ObjC](https://github.com/google/j2objc): I contributed [JPMS support](https://github.com/google/j2objc/pull/2302), released at [`3.0.0`](https://github.com/google/j2objc/commit/a883dd3f90d51d5ccad4aa3af8feaaeed6560109)
 
 - [Micronaut](https://micronaut.io): I contributed [Soy integration for `micronaut-views`](https://micronaut-projects.github.io/micronaut-views/latest/guide/#soy)
 
