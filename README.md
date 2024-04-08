@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sgammon&theme=ambient_gradient&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&hide_title=true&hide_border=true" />
-
 ## open source work
 
 ### I am the author of
