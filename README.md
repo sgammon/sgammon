@@ -1,30 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sgammon&theme=ambient_gradient&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&hide_title=true&hide_border=true" />
 
-# 👋 Hi there
-
-I'm Sam. I'm a passionate entrepreneur and software professional living in the SF Bay Area. I'm here on Github building stuff like [Elide](https://github.com/elide-dev/elide), a modern
-polyglot runtime which Makes Software Fun Again.
-
-## Drop me a line
-
-If you're interested in collaborating or chatting, email me at sam at elide (dot) dev, or [join the ɴᴜʟʟclub Discord](https://elide.dev/discord), where you can find me in the `#elide` or `#general` rooms.
-
-# Current projects
-
-## buildless
-
-We've launched [Buildless](https://less.build) in private beta 🎉. It's a remote build cache, backed by the power of Cloudflare. If you use Gradle, Maven, CCache, Bazel, Turbo, or several other build systems, you can drop in Buildless as a remote cache and share compiled outputs with your friends. Use Buildless from Java, Kotlin, JavaScript, Rust, C/C++, and more. Buildless is part of the Elide Cloud family of devops tools.
-
-## pkgst
-
-[Pkgst](https://docs.less.build/docs/pkgst) is a caching dependency proxy built in partnership with [Cloudflare](https://cloudflare.com). It can accelerate your dependency downloads from Maven, NPM, PyPi, BCR, and more.
-
-## elide
-
-[Elide](https://elide.dev) is a new polyglot software runtime. You can write programs in any mix of JVM (Kotlin, Java), JavaScript/TypeScript, Python, Ruby, LLVM, and WASM. Elide lets you re-use more code than before and, in many cases, outperforms equivalent stock runtimes (in some cases by up to 74x).
-
-
-## Other open source work
+## open source work
 
 ### I am the author of
 
@@ -38,7 +14,13 @@ We've launched [Buildless](https://less.build) in private beta 🎉. It's a remo
 
 - [`jpms.pkg.st`](https://github.com/javamodules/attic): The "JPMS Attic" repository lets you safely use Java Modules artifacts from the future, before they are officially released.
 
+- [`hashlock`](https://github.com/sgammon/hashlock): Bun/Node/Deno CLI/library/GitHub Action for verifying `smth.sha256`-style "hash lock" files
+
 ### I am a contributor to
+
+- [`commander.js`](https://github.com/tj/commander.js): I made the popular `commander` library compatible with Deno
+
+- [Google: Guava](https://github.com/google/guava): I've helped fix some build issues in Maven, and introduced JPMS support
 
 - [Google: Error Prone Compiler](https://github.com/google/error-prone): I contributed [JPMS support](https://github.com/google/error-prone/pull/4311) to the Error Prone Annotations, released at [`2.26.1`](https://github.com/google/error-prone/releases/tag/v2.26.1)
 
