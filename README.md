@@ -16,6 +16,8 @@
 
 ### I am a contributor to
 
+- [`node-glob`](https://github.com/isaacs/node-glob): Added Deno compat to one of the most popular NPM packages on earth (31k dependents)
+
 - [`commander.js`](https://github.com/tj/commander.js): I made the popular `commander` library compatible with Deno
 
 - [Google: Guava](https://github.com/google/guava): I've helped fix some build issues in Maven, and introduced JPMS support
