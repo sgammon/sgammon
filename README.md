@@ -14,6 +14,7 @@
 
 - [`hashlock`](https://github.com/sgammon/hashlock): Bun/Node/Deno CLI/library/GitHub Action for verifying `smth.sha256`-style "hash lock" files
 
+
 ### I am a contributor to
 
 - [`node-glob`](https://github.com/isaacs/node-glob): Added Deno compat to one of the most popular NPM packages on earth (31k dependents)
@@ -33,6 +34,8 @@
 - [Redisson](https://redisson.org): I added support for [`io_uring`](https://github.com/netty/netty-incubator-transport-io_uring) (thanks to Netty it was only a few lines)
 
 - [Buildkite](https://buildkite.com): I added the emojis for [Buf, Gitpod, Copybara and Cloudflare](https://github.com/buildkite/emojis/pulls?q=author%3Asgammon)
+
+- [BigchainDB](https://github.com/bigchaindb/bigchaindb): I contributed a bunch of fixes to [`TRANSACTION` operations in the Java driver](https://github.com/bigchaindb/java-bigchaindb-driver/pulls?q=is%3Apr+is%3Aclosed+author%3Asgammon)
 
 
 #### Lost to the sands of time
