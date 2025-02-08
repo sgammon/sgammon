@@ -2,8 +2,6 @@
 
 ### I am the author of
 
-- [`less.build`](https://less.build): Universal remote build cache for Maven, Gradle, Bazel, TurboRepo, CCache, SCCache, and more.
-
 - [`elide.dev`](https://elide.dev): Polyglot Node-like runtime via [GraalVM](https://graalvm.org).
 
 - [`rules_graalvm`](https://github.com/sgammon/rules_graalvm): Use [GraalVM](https://graalvm.org) from [Bazel](https://bazel.build), with support for `native-image` on Linux, macOS, Windows, and Bazel 4-7.
@@ -14,8 +12,12 @@
 
 - [`hashlock`](https://github.com/sgammon/hashlock): Bun/Node/Deno CLI/library/GitHub Action for verifying `smth.sha256`-style "hash lock" files
 
+- [`less.build`](https://less.build): Universal remote build cache for Maven, Gradle, Bazel, TurboRepo, CCache, SCCache, and more.
+
 
 ### I am a contributor to
+
+- [Apple Pkl](https://github.com/apple/pkl): "Configuration that is Programmable, Scalable, and Safe."
 
 - [`node-glob`](https://github.com/isaacs/node-glob): Added Deno compat to one of the most popular NPM packages on earth (31k dependents)
 
