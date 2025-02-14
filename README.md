@@ -19,15 +19,15 @@
 
 - [Apple Pkl](https://github.com/apple/pkl): "Configuration that is Programmable, Scalable, and Safe."
 
-- [`node-glob`](https://github.com/isaacs/node-glob): Added Deno compat to one of the most popular NPM packages on earth (31k dependents)
-
-- [`commander.js`](https://github.com/tj/commander.js): I made the popular `commander` library compatible with Deno
-
 - [Google: Guava](https://github.com/google/guava): I've helped fix some build issues in Maven, and introduced JPMS support
 
 - [Google: Error Prone Compiler](https://github.com/google/error-prone): I contributed [JPMS support](https://github.com/google/error-prone/pull/4311) to the Error Prone Annotations, released at [`2.26.1`](https://github.com/google/error-prone/releases/tag/v2.26.1)
 
 - [Google: J2ObjC](https://github.com/google/j2objc): I contributed [JPMS support](https://github.com/google/j2objc/pull/2302), released at [`3.0.0`](https://github.com/google/j2objc/commit/a883dd3f90d51d5ccad4aa3af8feaaeed6560109)
+
+- [`node-glob`](https://github.com/isaacs/node-glob): Added Deno compat to one of the most popular NPM packages on earth (31k dependents)
+
+- [`commander.js`](https://github.com/tj/commander.js): I made the popular `commander` library compatible with Deno
 
 - [Micronaut](https://micronaut.io): I contributed [Soy integration for `micronaut-views`](https://micronaut-projects.github.io/micronaut-views/latest/guide/#soy)
 
