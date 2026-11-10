@@ -6,6 +6,8 @@
 
 - [`myna`](https://github.com/elide-dev/myna): Bindgen for SubstrateVM (aka Native Image)
 
+- [`bemo`](https://github.com/elide-dev/bemo): SVM-specialized Netty transport
+
 - [`truffledata`](https://github.com/elide-dev/truffledata): JIT-aware dataframes on Truffle
 
 - [`trufflecel`](https://github.com/elide-dev/truffledata): CEL (Common Expression Language) on Truffle
