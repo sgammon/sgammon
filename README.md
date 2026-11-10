@@ -2,18 +2,17 @@
 
 ### I am the author of
 
-- [`elide.dev`](https://elide.dev): Polyglot Node-like runtime via [GraalVM](https://graalvm.org).
+- [`elide`](https://elide.dev): Multi-lang runtime
+
+- [`myna`](https://github.com/elide-dev/myna): Bindgen for SubstrateVM (aka Native Image)
+
+- [`truffledata`](https://github.com/elide-dev/truffledata): JIT-aware dataframes on Truffle
+
+- [`trufflecel`](https://github.com/elide-dev/truffledata): CEL (Common Expression Language) on Truffle
 
 - [`rules_graalvm`](https://github.com/sgammon/rules_graalvm): Use [GraalVM](https://graalvm.org) from [Bazel](https://bazel.build), with support for `native-image` on Linux, macOS, Windows, and Bazel 4-7.
 
-- [`rules_gradle`](https://github.com/sgammon/rules_gradle): Use [Gradle](https://gradle.org) from within your [Bazel](https://bazel.build) build; run Gradle builds within Bazel's sandbox.
-
-- [`jpms.pkg.st`](https://github.com/javamodules/attic): The "JPMS Attic" repository lets you safely use Java Modules artifacts from the future, before they are officially released.
-
-- [`hashlock`](https://github.com/sgammon/hashlock): Bun/Node/Deno CLI/library/GitHub Action for verifying `smth.sha256`-style "hash lock" files
-
 - [`less.build`](https://less.build): Universal remote build cache for Maven, Gradle, Bazel, TurboRepo, CCache, SCCache, and more.
-
 
 ### I am a contributor to
 
@@ -43,6 +42,12 @@
 #### Lost to the sands of time
 
 Some of these PRs are now obsolete or were never merged, but they are lovely nonetheless.
+
+- [`rules_gradle`](https://github.com/sgammon/rules_gradle): Use [Gradle](https://gradle.org) from within your [Bazel](https://bazel.build) build; run Gradle builds within Bazel's sandbox.
+
+- [`jpms.pkg.st`](https://github.com/javamodules/attic): The "JPMS Attic" repository lets you safely use Java Modules artifacts from the future, before they are officially released.
+
+- [`hashlock`](https://github.com/sgammon/hashlock): Bun/Node/Deno CLI/library/GitHub Action for verifying `smth.sha256`-style "hash lock" files
 
 - [`rules_buf`](https://github.com/sgammon/rules_buf): Use [Buf](https://buf.build) from your [Bazel](https://bazel.build) build.
 
