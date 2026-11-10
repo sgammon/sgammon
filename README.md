@@ -16,7 +16,7 @@
 
 ### I am a contributor to
 
-- [GraalVM](https://github.com/apple/pkl): “One VM to Rule Them All"
+- [GraalVM](https://github.com/oracle/graal), [GraalJS](https://github.com/oracle/graaljs), [GraalPython](https://github.com/oracle/graalpython): “One VM to Rule Them All"
 
 - [Apple Pkl](https://github.com/apple/pkl): "Configuration that is Programmable, Scalable, and Safe."
 
